@@ -1,0 +1,19 @@
+.row {
+    background-color: grey;
+}
+
+.col__title {
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600; 
+}
+
+.col__text {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+}
+
+.button:hover {
+    tranform: scale(1.2)
+
+}
