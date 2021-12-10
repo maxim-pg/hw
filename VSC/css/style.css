@@ -1,0 +1,34 @@
+@font-face {
+    font-family: Raleway;
+    src: url(/fonts/static/Raleway-ExtraLight.ttf);
+    src: url(/fonts/static/Raleway-SemiBold.ttf);
+}
+
+.row {
+    background-color: grey;
+}
+
+.col__title {
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600; 
+}
+
+.col__text {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+}
+
+.button {
+    background-color: #008B8B; 
+    color: black; 
+    height: 24px;
+    border-radius: 8px;
+    width: 100%;
+}
+
+.button:hover {
+    background-color: #9ACD32;
+    color: white;
+
+}
